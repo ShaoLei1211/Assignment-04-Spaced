@@ -1,2 +1,2 @@
-13.601470508735444
-9.9498743710662
+The maximum distance of these three points is	13.601470508735444
+The minimum distance of these three points is 9.9498743710662
